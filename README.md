@@ -2,9 +2,9 @@
 
 ** `Dev FullStack`**
 
-Olá, me chamo Gabriel dos Santoas Pedro, tenho 17 anos e sou de Jundiaí - SP. Faço ensino médio integrado
-ao curso técnico de informática na Escola padre Anchieta. Desde muito novo comecei a ter interação à tecnologia 
-e desde então sempre quis trabalhar com tal 
+Olá, me chamo Gabriel dos Santoas Pedro, tenho 17 anos e sou de Jundiaí - SP. Conclui o ensino médio integrado
+ao curso técnico de informática na Escola padre Anchieta no ano de 2025. Atualmente estou cursando Eng. de Software Full Stack na UniAnchieta.
+Desde muito novo comecei a ter interação à tecnologia e desde então sempre quis trabalhar com tal 
 
 ---
 
