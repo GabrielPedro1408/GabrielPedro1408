@@ -47,13 +47,6 @@ Desde muito novo comecei a ter interação à tecnologia e desde então sempre q
 />
 <img
     aling="left"
-    alt="C#"
-    width="32px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
-/>
-<img
-    aling="left"
     alt="Java"
     width="32px"
     style="padding-right: 10px;"
@@ -103,13 +96,6 @@ Desde muito novo comecei a ter interação à tecnologia e desde então sempre q
 />
 <img
     aling="left"
-    alt="Arduíno"
-    width="32px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"
-/>
-<img
-    aling="left"
     alt="GitHub"
     width="32px"
     style="padding-right: 10px;"
@@ -120,13 +106,6 @@ Desde muito novo comecei a ter interação à tecnologia e desde então sempre q
     width="32px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
-<img
-    aling="left"
-    alt="Git"
-    width="32px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
 />
 
 ---
