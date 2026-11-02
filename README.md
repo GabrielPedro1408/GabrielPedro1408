@@ -3,8 +3,8 @@
 ** `Dev FullStack`**
 
 Olá, me chamo Gabriel dos Santoas Pedro, tenho 18 anos e sou de Jundiaí - SP. Conclui o ensino médio integrado
-ao curso técnico de informática na Escola padre Anchieta no ano de 2025. Atualmente estou cursando Eng. de Software Full Stack na UniAnchieta.
-Desde muito novo comecei a ter interação à tecnologia e desde então sempre quis trabalhar com tal
+ao curso técnico de informática na Escola padre Anchieta no ano de 2025. 
+Atualmente estou trabalhando como Desenvolvedor Android Java e cursando Eng. de Software na UniAnchieta.
 
 ---
 
@@ -16,27 +16,6 @@ Desde muito novo comecei a ter interação à tecnologia e desde então sempre q
     width="32px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
-/>
-<img
-    aling="left"
-    alt="HTML:5"
-    width="32px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>
-<img
-    aling="left"
-    alt="CSS:3"
-    width="32px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
-<img
-    aling="left"
-    alt="JavaScript"
-    width="32px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
 <img
     aling="left"
@@ -54,20 +33,6 @@ Desde muito novo comecei a ter interação à tecnologia e desde então sempre q
 />
 <img
     aling="left"
-    alt="React-Native"
-    width="32px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-/>
-<img
-    aling="left"
-    alt="C++"
-    width="32px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
-/>
-<img
-    aling="left"
     alt="MySQL"
     width="32px"
     style="padding-right: 10px;"
@@ -79,20 +44,6 @@ Desde muito novo comecei a ter interação à tecnologia e desde então sempre q
     width="32px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
-/>
-<img
-    aling="left"
-    alt="Figma"
-    width="32px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
-/>
-<img
-    aling="left"
-    alt="bootstrap"
-    width="32px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
 />
 <img
     aling="left"
